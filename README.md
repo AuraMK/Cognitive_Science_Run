@@ -29,3 +29,19 @@ The most prying problem was GitHub, as we had difficulties uploading new achieve
 We hope to bring joy to every player, especially to every Coxi trying the game :)
 
 Have fun!
+
+
+We contacted Jule about our issues with github:
+I have just managed to upload our project on GitHub. In the process, I encountered some problems and couldn't update the final changes anymore.
+The problem could only be solved by deleting the repository and creating a new one.
+This led to the loss of all commit messages previously created.
+
+I would like to compensate for this with an approximate timeline:
+- beginning of May: Beginning of our own project - formulating ideas
+- mid-May: creating the first level with our own monster and looping background, as well as high score and score management
+- end of May: adding powerUps and their design
+- beginning of June: tackling minor problems with powerUp Manager
+- mid-June: creation of the main menu and some levels
+- end of June: finishing on the levels and adding the design to them, winner panel
+
+Thank you for your understanding!
